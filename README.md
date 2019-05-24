@@ -1,0 +1,2 @@
+# MobStore
+Asp Core mvc
